@@ -36,4 +36,9 @@ suma = num1+num2
 print("La suma de " ,num1, " y ",num2, " es: ",suma)
 print(f"La suma de {num1} y {num2} es: {suma}")"""
 
-#print("Hola")
+"""Pedir un nombre y mostrar cuántas
+letras tiene."""
+
+"""nombre = input("Ingrese su nombre: ")
+cantidad_letras = len(nombre)
+print(f"Su nombre tiene {cantidad_letras} letras.")"""
